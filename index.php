@@ -8,7 +8,7 @@
 <!-- the content is fixed on the container -->
 <div id="container">
 	<header id="container_top">
-		<p><?php echo($l_hello); ?></p> <-- the arg is fixed with the lang file -->
+		<p><?php echo($l_hello); ?></p> <!-- the arg is fixed with the lang file -->
 	</header>
 
 </div>
